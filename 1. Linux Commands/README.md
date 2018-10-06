@@ -25,6 +25,7 @@ Let's try it using command line:
 * `mv <filename> <target-directory>` : Change the location of a file/directory.
 * `touch <filename>`  Create a new file in the directory.
 * `rm <filename>` Deletes given file.
+* `nano <filename>` Use nano or vi to edit the file (will help while demonstarting cat)
 * `cat <filename>` Display the contents of the file on the terminal.
 * `sudo apt-get install <package-name>` Install a package using command line.
 
@@ -38,17 +39,17 @@ Let's try it using command line:
 > However, in contrast, Linux is completely an open source project. You can have a look at the source code of a Linux OS, which is a plus.
 [(1)](https://i.imgur.com/tJ2JEVb.jpg)
 
-* Secure:
-> Windows OS is vulnerable to different types of attacks (or hacks). However, Linux is not as vulnerable as Windows. It sure isn’t invulnerable, but it is a lot more secure. Although, there’s no rocket science in it.
-
-* Can revive older computers:
-> As the operating systems evolve, so do their hardware requirements increase exponentially. For instance, if you purchase a genuine copy of Windows 10, you will have to meet the minimum hardware requirements to run it successfully, and you cannot run it on just about any low-end system.
-
 * Perfect For Programmers
 > GNU/Linux is a Unix-like OS. It has a huge collection of programs which makes your command line lit. It can increase your programming speed to a great extend. Comes with most of the things installed by default. All the configurations can be easily done using certain package managers. You don't have to make your hands dirty and waste huge amount of time in just installing and configuring programs to make them work.
 
 * Software Updates
 > You'll be getting regular software updates and bug fixes. Even when you mess something up, you can send an error report to get it fixed soon. Unlike Windows or other proprietary operating systems, it has a huge community support.
+
+* Secure:
+> Windows OS is vulnerable to different types of attacks (or hacks). However, Linux is not as vulnerable as Windows. It sure isn’t invulnerable, but it is a lot more secure. Although, there’s no rocket science in it.
+
+* Can revive older computers:
+> As the operating systems evolve, so do their hardware requirements increase exponentially. For instance, if you purchase a genuine copy of Windows 10, you will have to meet the minimum hardware requirements to run it successfully, and you cannot run it on just about any low-end system.
 
 * Many more
 > It comes with better privacy management, customisations, freedom, huge number of distros depending upon your needs, etc.
